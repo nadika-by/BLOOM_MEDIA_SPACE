@@ -1,40 +1,39 @@
----
-
-> ⚠️ **PROJECT STATUS / СТАТУС ПРОЕКТА**
-> * **EN:** This repository contains the conceptual architecture, documentation, and development strategy for the future BLOOM MEDIA space. Currently, the project is in the **active design and startup phase**.
-> * **RU:** Данный репозиторий содержит концептуальную архитектуру, документацию и стратегию развития будущего медиа-пространства BLOOM MEDIA. На текущий момент проект находится на **стадии активного проектирования и запуска стартапа**.
-
----
-
-
 # BLOOM MEDIA 📺📻
+
+| ⚠️ PROJECT STATUS / СТАТУС ПРОЕКТА |
+| :--- |
+| **EN:** This repository contains the conceptual architecture and development strategy for the future BLOOM MEDIA space. The project is currently in the **active design and startup phase**. |
+| **RU:** Данный репозиторий содержит концептуальную архитектуру и стратегию развития будущего медиа-пространства BLOOM MEDIA. На текущий момент проект находится на **стадии активного проектирования и запуска стартапа**. |
+
+<p align="center">
+  <img src="./branding/LOGO_BLOOM_MEDIA_QUANTUM_SHIELD.png" alt="BLOOM MEDIA Quantum Shield Logo" width="600">
+</p>
 
 > *“A window to the world through which the LANDORA KZ holding shows its life live.”*
 > 
 > «Окно в мир, через которое холдинг LANDORA KZ показывает свою жизнь в прямом эфире».
 
 ---
-<img width="550" height="350" alt="LOGO_BLOOM_MEDIA_TV_FM" src="https://github.com/user-attachments/assets/6e275326-89ae-4f10-b476-ee04851d9ae5" />
 
 ## 🇺🇸 English Version
 
 ### 1. About the Project
-**BLOOM MEDIA** is a unified media space and the information heart of the LANDORA KZ holding. It is not just a news resource, but a live, transparent, and continuous stream broadcasting the evolution of our technological, ecological, and social initiatives in real time.
+**BLOOM MEDIA** is a planned unified media space and the information heart of the future LANDORA KZ holding. It is designed not just as a news resource, but as a live, transparent, and continuous stream broadcasting the evolution of our technological, ecological, and social initiatives in real time.
 
-Through the visual imagery of television and the sonic atmosphere of radio, we open the inner life of the holding to the world, turning the creation of innovations into an open and inspiring story.
+Through the visual imagery of television and the sonic atmosphere of radio, we aim to open the inner life of the holding to the world, turning the creation of innovations into an open and inspiring story.
 
 ### 2. Media Space Structure: Three Facets of One Window
-To showcase the holding's life in its entirety, BLOOM MEDIA utilizes three interconnected tools:
+To showcase the holding's future life in its entirety, BLOOM MEDIA utilizes three interconnected conceptual tools:
 
 * 📺 **Bloom TV — Visual Focus**
     * **Role:** An inside look.
-    * **Function:** Shows real processes "live". This includes live development streams, video reports from the Green Titans startup sites, visual demonstrations of Web3/DePIN technologies on Solana, and the faces of the team.
+    * **Function:** Planned to show real processes "live". This includes live development streams, video reports from the Green Titans startup sites, visual demonstrations of Web3/DePIN technologies on Solana, and the faces of the team.
 * 📻 **Bloom FM — Sonic Atmosphere**
     * **Role:** Voice and meanings.
-    * **Function:** Creates a continuous informational and mental field. This includes timely broadcasts, analytical podcasts, expert discussions, and the transmission of the holding's philosophy.
+    * **Function:** Designed to create a continuous informational and mental field. This includes timely broadcasts, analytical podcasts, expert discussions, and the transmission of the holding's philosophy.
 * 🌿 **Nadika Creative House — Ideological Source**
     * **Role:** Soul and creative code.
-    * **Function:** The main generator of content, meanings, and imagery. It fills Bloom TV and Bloom FM with exclusive music, poetry, visual style, and design.
+    * **Function:** The main generator of content, meanings, and imagery. It will fill Bloom TV and Bloom FM with exclusive music, poetry, visual style, and design.
 
 ### 3. Repository Navigation (Project Map)
 * 📂 **[`/concepts`](./concepts)** — Fundamental documentation (`bloom-tv.md`, `bloom-fm.md`, `nadika-creative-core.md`).
@@ -46,16 +45,16 @@ To showcase the holding's life in its entirety, BLOOM MEDIA utilizes three inter
 ## 🇷🇺 Русский вариант
 
 ### 1. О проекте
-**BLOOM MEDIA** — это единое медиа-пространство и информационное сердце холдинга LANDORA KZ. Это не просто новостной ресурс, а живой, прозрачный и непрерывный поток, транслирующий развитие наших технологических, экологических и социальных инициатив в реальном времени.
+**BLOOM MEDIA** — это планируемое единое медиа-пространство и информационное сердце будущего холдинга LANDORA KZ. Это не просто новостной ресурс, а задуманный живой, прозрачный и непрерывный поток, транслирующий развитие наших технологических, экологических и социальных инициатив в реальном времени.
 
-Через визуальные образы телевидения и звуковую атмосферу радио мы открываем миру внутреннюю жизнь холдинга, превращая создание инноваций в открытую и вдохновляющую историю.
+Через визуальные образы телевидения и звуковую атмосферу радио мы стремимся открыть миру внутреннюю жизнь холдинга, превращая создание инноваций в открытую и вдохновляющую историю.
 
 ### 2. Структура медиа-пространства: Три грани одного окна
-Чтобы показать жизнь холдинга во всей полноте, BLOOM MEDIA использует три взаимосвязанных инструмента:
+Чтобы показать будущую жизнь холдинга во всей полноте, BLOOM MEDIA использует три взаимосвязанных концептуальных инструмента:
 
 * 📺 **Bloom TV — Визуальный фокус**
     * **Роль:** Взгляд изнутри.
-    * **Функция:** Показывает реальные процессы «вживую». Это прямые трансляции разработки, видеоотчеты с площадок стартапа Green Titans, наглядная демонстрация Web3/DePIN технологий на Solana и лица команды.
+    * **Функция:** Планируется для демонстрации реальных процессов «вживую». Это прямые трансляции разработки, видеоотчеты с площадок стартапа Green Titans, наглядная демонстрация Web3/DePIN технологий на Solana и лица команды.
 * 📻 **Bloom FM — Звуковая атмосфера**
     * **Роль:** Голос и смыслы.
     * **Функция:** Создает непрерывное информационное и ментальное поле. Это оперативные эфиры, аналитические подкасты, экспертные обсуждения и трансляция философии холдинга.

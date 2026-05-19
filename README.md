@@ -1,3 +1,12 @@
+---
+
+> ⚠️ **PROJECT STATUS / СТАТУС ПРОЕКТА**
+> * **EN:** This repository contains the conceptual architecture, documentation, and development strategy for the future BLOOM MEDIA space. Currently, the project is in the **active design and startup phase**.
+> * **RU:** Данный репозиторий содержит концептуальную архитектуру, документацию и стратегию развития будущего медиа-пространства BLOOM MEDIA. На текущий момент проект находится на **стадии активного проектирования и запуска стартапа**.
+
+---
+
+
 # BLOOM MEDIA 📺📻
 
 > *“A window to the world through which the LANDORA KZ holding shows its life live.”*

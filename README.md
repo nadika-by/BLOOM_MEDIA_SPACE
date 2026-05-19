@@ -6,7 +6,8 @@
 | **RU:** Данный репозиторий содержит концептуальную архитектуру и стратегию развития будущего медиа-пространства BLOOM MEDIA. На текущий момент проект находится на **стадии активного проектирования и запуска стартапа**. |
 
 <p align="center">
-  <img src="./branding/LOGO_BLOOM_MEDIA_QUANTUM_SHIELD.png" alt="BLOOM MEDIA Quantum Shield Logo" width="600">
+ <img width="550" height="350" alt="LOGO_BLOOM_MEDIA_TV_FM" src="https://github.com/user-attachments/assets/788ff422-4891-42a7-93d1-c37c19e3ea88" />
+ 
 </p>
 
 > *“A window to the world through which the LANDORA KZ holding shows its life live.”*

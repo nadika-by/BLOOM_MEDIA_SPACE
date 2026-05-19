@@ -1,6 +1,7 @@
 # 📺 Bloom TV Concept & Strategy / Концепция и стратегия Bloom TV
 
 > “Visual transparency as a bridge between technology and society.”
+> 
 > «Визуальная прозрачность как мост между технологиями и обществом».
 
 ---

@@ -5,7 +5,7 @@
 > «Окно в мир, через которое холдинг LANDORA KZ показывает свою жизнь в прямом эфире».
 
 ---
-<img width="550" height="390" alt="LOGO_BLOOM_MEDIA_TV_FM" src="https://github.com/user-attachments/assets/6e275326-89ae-4f10-b476-ee04851d9ae5" />
+<img width="550" height="350" alt="LOGO_BLOOM_MEDIA_TV_FM" src="https://github.com/user-attachments/assets/6e275326-89ae-4f10-b476-ee04851d9ae5" />
 
 ## 🇺🇸 English Version
 
